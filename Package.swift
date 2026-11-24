@@ -36,8 +36,8 @@ let package = Package(
   ],
   dependencies: [
     .package(url: "https://github.com/the-swift-collective/imgui", from: "1.92.0"),
-    .package(url: "https://github.com/wabiverse/MetaOpenImageIO.git", from: "1.0.0"),
-    .package(url: "https://github.com/wabiverse/MetaOpenImageIO_Util.git", from: "1.0.0"),
+    .package(url: "https://github.com/wabiverse/MetaOpenImageIO.git", from: "1.0.1"),
+    .package(url: "https://github.com/wabiverse/MetaOpenImageIO_Util.git", from: "1.0.1"),
     .package(url: "https://github.com/wabiverse/MetaMicrosoftSTL.git", from: "1.0.0"),
   ],
   targets: [
